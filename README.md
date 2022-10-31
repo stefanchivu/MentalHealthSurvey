@@ -1,4 +1,4 @@
-# MentalHealthSurvey
+# Mental Health Survey
 
 Inclusivity of all kinds is important for the well functioning of a company, both for having a larger pool from which you attract talent and for the benefits of a diverse workforce.
 <br>
